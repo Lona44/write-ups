@@ -59,7 +59,7 @@ Thankfully, it worked! We get a flag back, which I'll let you work through to se
 
 ![](https://media.tenor.com/images/353248989abb0d2a6ddee80898a875bb/tenor.gif)
 
-## A Visual of How I See Everythihng Come Together
+## A Visual of How I See Everything Come Together
 Below is the relevant code, along with how it connects to the various components of what we're given. Thanks for stopping by.
 
 ![](https://github.com/Lona44/write-ups/blob/main/PicoCTF/Python%20Wrangling/Python%20Wrangling.png)
