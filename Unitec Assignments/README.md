@@ -4,6 +4,6 @@ Here are some reports required for the Diploma in Cybersecurity through Unitec I
 
 Reports for the following classes so far:
   1. [Network Security](https://github.com/Lona44/write-ups/tree/main/Unitec%20Assignments/Network%20Security)
-  2. [Information Security]()
+  2. [Information Security](https://github.com/Lona44/write-ups/tree/main/Unitec%20Assignments/Information%20Security)
   3. [Cybersecurity Data Analysis]()
   4. [Cybersecurity Project]()
