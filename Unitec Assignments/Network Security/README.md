@@ -2,5 +2,5 @@
 
 # Network Security Reports
 
-The contents of these reports will evlove:
+The contents of these reports will evolve:
   1. [Assignment 1 - Emerging Threats & Attacks](https://github.com/Lona44/write-ups/blob/main/Unitec%20Assignments/Network%20Security/netsec_report01_lona_final%20(1).pdf)
