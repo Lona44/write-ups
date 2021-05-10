@@ -57,6 +57,8 @@ $ python3 ende.py -d flag.txt.en 6008014f6008014f6008014f6008014f
 ```
 Thankfully, it worked! We get a flag back, which I'll let you work through to see ;)
 
+![](https://media.tenor.com/images/353248989abb0d2a6ddee80898a875bb/tenor.gif)
+
 ## A Visual of How I See Everythihng Come Together
 Below is the relevant code, along with how it connects to the various components of what we're given. Thanks for stopping by.
 
