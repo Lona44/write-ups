@@ -2,7 +2,9 @@
 
 ![alt text](https://github.com/Lona44/write-ups/blob/main/PicoCTF/Python%20Wrangling/2021-05-10%2018_59_20-picoCTF%20-%20picoGym.png "Description")
 
-In this challenge, we're given:
+Welcome to my writeup on the PicoCTF challenge, Python Wrangling! 
+
+Above is a screenshot of the challenge we're given, including:
   * a python script called [`ende.py`](https://mercury.picoctf.net/static/0bf545252b5120845e3b568b9ad0277e/ende.py)
   * an encrypted flag in a file called [`flag.txt.en`](https://mercury.picoctf.net/static/0bf545252b5120845e3b568b9ad0277e/flag.txt.en)
   * a password in a file called [`pw.txt`](https://mercury.picoctf.net/static/0bf545252b5120845e3b568b9ad0277e/pw.txt)
