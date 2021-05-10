@@ -4,4 +4,4 @@ Some write-ups for PicoCTF challenges.
 Each challenge attempted will have its own folder.
 
 ### Writeups done so far:
-  1. [Python wrangling]()
+  1. [Python wrangling](https://github.com/Lona44/write-ups/tree/main/PicoCTF/Python%20Wrangling)
