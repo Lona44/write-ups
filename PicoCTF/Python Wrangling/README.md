@@ -43,7 +43,7 @@ Heading back to the code, lines `8-12` are useful to understand the kind of comm
 ```bash
 $ python sys.argv[0] -d pole.txt
 ```
-where `sys.argv[0]` represents the Python file we downloaded `ende.py`. We can also see the last arguement is a file that is to be decrypted. What does the `-d` flag do though? Scanning through the code, I see that lines `37-49` tell us that `-d` allows us to decrypt a given file. That must mean that the `-e` flag does the opposite and encrypts files, which we can verify by investigating the code block on lines `22-34`.
+where `sys.argv[0]` represents the Python file we downloaded `ende.py`. We can also see the last arguement is an example text file. What does the `-d` flag do though? Scanning through the code, I see that lines `37-49` tell us that `-d` allows us to decrypt a given file. That must mean that the `-e` flag does the opposite and encrypts files, which we can verify by investigating the code block on lines `22-34`.
 
 ## Step 5: Breaking Down the Decryption Code Block
 I need to know exactly how I'm going to use the decryption part of the code to get back a decrypted flag to submit. Investigating lines `37-49` further, it looks like we have two options to recover what we need:
