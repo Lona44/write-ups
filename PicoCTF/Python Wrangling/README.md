@@ -1,1 +1,27 @@
-# Placeholder
+# Python Wrangling Writeup
+
+In this challenge, we're given:
+  * a python script called [`ende.py`](https://mercury.picoctf.net/static/0bf545252b5120845e3b568b9ad0277e/ende.py)
+  * an encrypted flag in a file called [`flag.txt.en`](https://mercury.picoctf.net/static/0bf545252b5120845e3b568b9ad0277e/flag.txt.en)
+  * a password in a file called [`pw.txt`](https://mercury.picoctf.net/static/0bf545252b5120845e3b568b9ad0277e/pw.txt)
+
+### Step 1. 
+We aren't given much else, so the first thing I do is pull the 3 files using `wget`
+```bash
+wget https://mercury.picoctf.net/static/0bf545252b5120845e3b568b9ad0277e/ende.py
+wget https://mercury.picoctf.net/static/0bf545252b5120845e3b568b9ad0277e/flag.txt.en
+wget https://mercury.picoctf.net/static/0bf545252b5120845e3b568b9ad0277e/pw.txt
+```
+
+### Step 2.
+A quick check using `ls` should show the 3 files. We can have a look a the flag and password using `cat`:
+```bash
+cat flag.txt.en pw.txt
+```
+We see that the flag value is `gAAAAABgUAIVI-r3OTKrDSgUJ8i3N9OzjacXZ1w4Hua00I_-Bg7gZu9Fld-TFYRiUiZlkLkChceqqpL9XnGOMO-W2-lRXpFhTkrqk9fHAvDfNkZHuZcjGPpG4xaR4mPnagzSNIrtL9tK` and the password value is `6008014f6008014f6008014f6008014f`.
+
+### Step 3.
+We can use `Vim` to have a look at the python file:
+```bash
+vim ende.py
+```
