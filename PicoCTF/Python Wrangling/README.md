@@ -47,7 +47,7 @@ where `sys.argv[0]` represents the Python file we downloaded `ende.py`. We can a
 
 ## Step 5: Breaking Down the Decryption Code Block
 I need to know exactly how I'm going to use the decryption part of the code to get back a decrypted flag to submit. Investigating lines `37-49` further, it looks like we have two options to recover what we need:
-  1. Only running the command from Step 3. with the `-d` flag and the file to decrypt. So `$ python ende.py -d flag.txt.en `. Line `39` tells us we'll get asked to enter a pssword, which we have and is contained in the `pw.txt` file we downloaded already.
+  1. Only running the command from Step 3. with the Python script as `sys.argv[0]`, the `-d` flag as `sys.argv[1]` and a file to investigate as `sys.argv[2]`. So `$ python ende.py -d flag.txt.en `. Line `39` tells us we'll get asked to enter a pssword, which we have and is contained in the `pw.txt` file we downloaded already.
   2. The other option is to enter everthing above, as well as appending the password as the last arguement. So if the password is say `password123`, then we'd run `$ python ende.py -d flag.txt.en password123`.
 
 ## Step 6: Recovering the Flag & Submitting
