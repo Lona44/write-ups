@@ -51,7 +51,7 @@ I need to know exactly how I'm going to use the decryption part of the code to g
   2. The other option is to enter everthing above, as well as appending the password as the last arguement. So if the password is say `password123`, then we'd run `$ python ende.py -d flag.txt.en password123`.
 
 ## Step 6: Recovering the Flag & Submitting
-I like option 2 from the previous step. So I copy the password in the `pw.txt` to the clipboard, and enter the following and cross my fingers (note I'm using Python 3):
+I like option 2 from the previous step. So I copy the password in the `pw.txt` to the clipboard, and enter the following while crossing my fingers it works (note I'm using Python 3):
 ```bash
 $ python3 ende.py -d flag.txt.en 6008014f6008014f6008014f6008014f
 ```
