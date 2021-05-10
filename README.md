@@ -8,4 +8,4 @@ Some write-ups for attempted CTF challenges and Unitec assignments so far:
   3. HackTheBox Writeups
   4. OverTheWire Writeups
   5. CryptoHack Writeups
-  6. Unitec Assignments
+  6. [Unitec Assignments](https://github.com/Lona44/write-ups/tree/main/Unitec%20Assignments)
