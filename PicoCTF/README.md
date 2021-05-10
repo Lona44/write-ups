@@ -2,3 +2,6 @@
 # write-ups
 Some write-ups for PicoCTF challenges.
 Each challenge attempted will have its own folder.
+
+### Writeups done so far:
+  1. [Python wrangling]()
