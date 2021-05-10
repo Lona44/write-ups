@@ -1,4 +1,4 @@
-![](https://github.com/Lona44/write-ups/blob/main/Welcome%20Gif%20Lona.gif)
+![](https://github.com/Lona44/write-ups/blob/main/welcome.gif)
 
 Paraphrasing Mr. Feynman, if you can't explain it simply, you don't really get it. So here are some attempts at explanations.
 
