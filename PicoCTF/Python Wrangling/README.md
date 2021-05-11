@@ -21,7 +21,7 @@ $ wget https://mercury.picoctf.net/static/0bf545252b5120845e3b568b9ad0277e/pw.tx
 ```
 
 ## Step 2: Having a Look at the Flag and Password Files
-A quick check using `ls` should show the 3 files if we've managed to download them using step 1. We can have a look a the flag and password using `cat`:
+A quick check using `ls` should show the 3 files if we've managed to download them using step 1. We can have a look at the flag and password using `cat`:
 ```bash
 $ cat flag.txt.en pw.txt
 ```
