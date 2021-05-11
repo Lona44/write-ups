@@ -24,11 +24,11 @@ Some write-ups for attempted CTF challenges and Unitec assignments so far:
   7. Kubernetes
   8. Bug Hunting Automation
   9. Homomorphic Encryption
-  10. Human Learning & the Education System
-  11. The world of Competitive Programming (& problem solving in general)
+  10. Human Learning
+  11. Competitive Programming (& problem solving in general)
   12. Blockchain
   13. Neuralink Technology (& IoT/Firmware in general)
   14. Matrix.org Technology
   15. Reverse Engineering / Malware Analysis
-  16. Capitalism 
-  17. DNS Tunneling Detection
+  16. DNS Tunneling Detection
+  17. DGA Detection
