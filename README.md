@@ -17,18 +17,18 @@ Some write-ups for attempted CTF challenges and Unitec assignments so far:
 ## Other things I want to learn and write about in the future:
   1. Argon2
   2. Deep Reinforcement Learning for Cybersecurity
-  3. ELK/EFK stack for monitoring
-  4. Kaggle competitions
+  3. ELK/EFK Stack for Monitoring
+  4. Kaggle Competitions
   5. Splunk
   6. Docker
   7. Kubernetes
   8. Bug Hunting Automation
   9. Homomorphic Encryption
-  10. Human learning & the education system
-  11. The world of competitive programming (& problem solving in general)
+  10. Human Learning & the Education System
+  11. The world of Competitive Programming (& problem solving in general)
   12. Blockchain
-  13. Neuralink technology (& IoT/Firmware in general)
-  14. Matrix.org technology
-  15. Reverse engineering / Malware analysis
-  16. Capitalism (Wealth gaps, etc)
-  17. DNS attacks & detection
+  13. Neuralink Technology (& IoT/Firmware in general)
+  14. Matrix.org Technology
+  15. Reverse Engineering / Malware Analysis
+  16. Capitalism 
+  17. DNS Tunneling Detection
