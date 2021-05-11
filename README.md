@@ -9,3 +9,13 @@ Some write-ups for attempted CTF challenges and Unitec assignments so far:
   4. OverTheWire Writeups
   5. CryptoHack Writeups
   6. [Unitec Assignments](https://github.com/Lona44/write-ups/tree/main/Unitec%20Assignments)
+
+Other things I want to write about in the future:
+  1. Argon2
+  2. Deep Reinforcement Learning for Cybersecurity
+  3. ELK/EFK stack
+  4. Splunk
+  5. Docker
+  6. Kubernetes
+  7. Bug Hunting Automation
+  8. Homomorphic Encryption
