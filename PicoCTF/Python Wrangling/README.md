@@ -1,4 +1,4 @@
-# Python Wrangling Writeup - 05/11/2021
+# Python Wrangling Writeup - 11/05/2021
 
 ![alt text](https://github.com/Lona44/write-ups/blob/main/PicoCTF/Python%20Wrangling/2021-05-10%2018_59_20-picoCTF%20-%20picoGym.png "Description")
 
