@@ -31,3 +31,4 @@ Some write-ups for attempted CTF challenges and Unitec assignments so far:
   14. Matrix.org technology
   15. Reverse engineering / Malware analysis
   16. Capitalism (Wealth gaps, etc)
+  17. DNS attacks & detection
