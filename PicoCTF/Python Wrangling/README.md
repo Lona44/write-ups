@@ -55,7 +55,11 @@ I like option 2 from the previous step. So I copy the password in the `pw.txt` t
 ```bash
 $ python3 ende.py -d flag.txt.en 6008014f6008014f6008014f6008014f
 ```
-Thankfully, it worked! We get a flag back, which I'll let you work through to see ;)
+Thankfully, it worked! 
+
+![](https://github.com/Lona44/write-ups/blob/main/PicoCTF/Python%20Wrangling/2021-05-11%2012_42_31-m44.png)
+
+We get a flag back, which I'll let you work through to see ;)
 
 ![](https://media.tenor.com/images/353248989abb0d2a6ddee80898a875bb/tenor.gif)
 
