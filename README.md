@@ -1,5 +1,6 @@
 ![](https://github.com/Lona44/write-ups/blob/main/welcome.gif)
 
+# Hello, friend...
 Paraphrasing Mr. Feynman, if you can't explain it simply, you don't really get it. So here are some attempts at explanations.
 
 Some write-ups for attempted CTF challenges and Unitec assignments so far:
