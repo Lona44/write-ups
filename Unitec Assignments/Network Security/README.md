@@ -4,4 +4,4 @@
 
 The contents of these reports will evolve:
   1. [Assignment 1 - Emerging Threats & Attacks](https://github.com/Lona44/write-ups/blob/main/Unitec%20Assignments/Network%20Security/netsec_report01_lona_final%20(1).pdf)
-  2. [Assignment 2 - Network Defense Practical & Report]()
+  2. [Assignment 2 - Network Defense Practical & Report](https://github.com/Lona44/write-ups/blob/main/Unitec%20Assignments/Network%20Security/Assignment%202%20-%20Network%20Security%20Group%208.pdf)
