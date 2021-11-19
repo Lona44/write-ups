@@ -7,3 +7,4 @@ Reports for the following classes so far:
   2. [Information Security](https://github.com/Lona44/write-ups/tree/main/Unitec%20Assignments/Information%20Security)
   3. Cybersecurity Data Analysis
   4. Cybersecurity Project
+  5. [Industry Report](https://github.com/Lona44/write-ups/blob/main/Unitec%20Assignments/Internship/Internship%20Report%20-%20Datacom_Lona_Signed.pdf)
